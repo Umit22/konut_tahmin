@@ -1,0 +1,4 @@
+fatsapi==0.104.01
+numpy==1.26.4
+pydantic==2.4.2
+uvicorn==0.24.0.post1
